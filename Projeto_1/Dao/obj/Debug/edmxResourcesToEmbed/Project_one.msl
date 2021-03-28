@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Project_oneModelStoreContainer" CdmEntityContainer="Project_oneEntities">
+    <EntitySetMapping Name="base_log">
+      <EntityTypeMapping TypeName="Project_oneModel.base_log">
+        <MappingFragment StoreEntitySet="base_log">
+          <ScalarProperty Name="Descrição" ColumnName="Descrição" />
+          <ScalarProperty Name="Ocorrencia" ColumnName="Ocorrencia" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="DiaMes" ColumnName="DiaMes" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

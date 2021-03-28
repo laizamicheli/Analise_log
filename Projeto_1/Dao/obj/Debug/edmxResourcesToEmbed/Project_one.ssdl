@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Project_oneModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityType Name="base_log">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DiaMes" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Hora" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ocorrencia" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Descrição" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Project_oneModelStoreContainer">
+    <EntitySet Name="base_log" EntityType="Self.base_log" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

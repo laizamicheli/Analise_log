@@ -1,0 +1,10 @@
+D:\prova\Projeto_1\Dao\Dao\bin\Debug\Dao.dll.config
+D:\prova\Projeto_1\Dao\Dao\bin\Debug\Dao.dll
+D:\prova\Projeto_1\Dao\Dao\bin\Debug\Dao.pdb
+D:\prova\Projeto_1\Dao\Dao\bin\Debug\EntityFramework.dll
+D:\prova\Projeto_1\Dao\Dao\bin\Debug\EntityFramework.xml
+D:\prova\Projeto_1\Dao\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+D:\prova\Projeto_1\Dao\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+D:\prova\Projeto_1\Dao\Dao\obj\Debug\Dao.csproj.CopyComplete
+D:\prova\Projeto_1\Dao\Dao\obj\Debug\Dao.dll
+D:\prova\Projeto_1\Dao\Dao\obj\Debug\Dao.pdb

@@ -1,0 +1,13 @@
+D:\prova\Projeto_1\VerificaLog\bin\VerificaLog.dll.config
+D:\prova\Projeto_1\VerificaLog\bin\VerificaLog.dll
+D:\prova\Projeto_1\VerificaLog\bin\VerificaLog.pdb
+D:\prova\Projeto_1\VerificaLog\obj\Debug\VerificaLog.csprojAssemblyReference.cache
+D:\prova\Projeto_1\VerificaLog\obj\Debug\VerificaLog.csproj.CoreCompileInputs.cache
+D:\prova\Projeto_1\VerificaLog\obj\Debug\VerificaLog.dll
+D:\prova\Projeto_1\VerificaLog\obj\Debug\VerificaLog.pdb
+D:\prova\Projeto_1\VerificaLog\bin\Dao.dll
+D:\prova\Projeto_1\VerificaLog\bin\EntityFramework.dll
+D:\prova\Projeto_1\VerificaLog\bin\Dao.pdb
+D:\prova\Projeto_1\VerificaLog\bin\Dao.dll.config
+D:\prova\Projeto_1\VerificaLog\bin\EntityFramework.xml
+D:\prova\Projeto_1\VerificaLog\obj\Debug\VerificaLog.csproj.CopyComplete
